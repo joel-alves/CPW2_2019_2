@@ -1,0 +1,12 @@
+
+
+
+Git -> ferramenta de controle de versã odistribuido
+
+
+git-scm.com 		//pag para instalar git
+
+
+
+------------COMANDOS DO GIT------------------
+

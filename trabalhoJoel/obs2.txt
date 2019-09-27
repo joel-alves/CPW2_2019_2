@@ -1,0 +1,19 @@
+Anotações
+
+		diferença entre id e name
+id --> ultilizamos para recuperar o elemento no JS
+name --> serve para associr um rótulo ao elemento
+
+
+
+instalar sass
+
+
+npm i -g sass
+
+
+javascript
+
+
+
+

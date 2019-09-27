@@ -1,0 +1,79 @@
+body{
+    font-family: sans-serif;
+}
+
+.conteinerFormulario {
+
+    border: 1px solid #aaaaaa;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 50px;
+
+    *{          //asteristo faz com que todos os 'filhos recebam o mesmo comando
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input{
+        height: 20px;
+        width: 80%;
+        border-radius: 5px;
+        border: 1px solid #cccccc;
+        font-size: 100%;
+        margin-bottom: 10px;
+
+    }
+    button{
+        border-radius: 5px;
+        color: white;               //cor da fonte
+        background-color: blue;     //cor do fundo do botão
+        padding: 10px;
+        font-size: 120%;            // por padrao os botoes tem fonte reduzida
+        font-weight: bold;          //deixa texto em negrito, exceto para fontes estilizadas
+        border-radius: 5px;         // raio de borda ---deixa o botão redondo
+        
+
+    }
+
+
+}
+
+span{
+    font-weight: bold;
+
+}
+.conteinerFrase {
+    
+        border: 1px solid #aaaaaa;
+        padding: 10px;
+        width: 300px;
+        margin-bottom: 50px;
+    
+        *{          //asteristo faz com que todos os 'filhos recebam o mesmo comando
+            display: block;
+            margin-bottom: 5px;
+        }
+    
+        input{
+            height: 20px;
+            width: 80%;
+            border-radius: 5px;
+            border: 1px solid #cccccc;
+            font-size: 100%;
+            margin-bottom: 10px;
+    
+        }
+        button{
+            border-radius: 5px;
+            color: white;               //cor da fonte
+            background-color: blue;     //cor do fundo do botão
+            padding: 10px;
+            font-size: 120%;            // por padrao os botoes tem fonte reduzida
+            font-weight: bold;          //deixa texto em negrito, exceto para fontes estilizadas
+            border-radius: 5px;         // raio de borda ---deixa o botão redondo
+            
+    
+        }
+    
+    
+    }

@@ -1,0 +1,25 @@
+sass styles/estilos.scss styles/estilos/css --wactch
+
+
+atalhos :
+
+#div (nome da div) + enter
+
+
+
+
+
+
+
+Evento e Ação
+-Evento: remete a algo instantâneo que ocorre no componente web (clicar de um botão, por exemplo).
+-Ação: é algo que é executado após um evento (como exibir uma msg).
+
+
+
+Concatenação de strings JS
+let mensagem = `Olá, ${nome}!`;
+
+//let  		--cria uma variavel
+// ${nome} 	--chama uma variável
+

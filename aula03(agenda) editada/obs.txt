@@ -1,0 +1,50 @@
+aula 03
+
+--estilo Mestre-Detalhe
+
+**NOva estrutura de organização
+
+
+
+-------//-----
+patter é um padrão pra preenchimento do formulário
+
+
+
+
+Emmet --> abreviações/atalhos
+
+html:5 (atalho pra criar cabeçalho html)
+
+#(nome da div) cria div completa
+.header + enter 
+
+link:favicon
+
+
+
+---------------aula 12/09 quinta feira---------------
+
+
+combinador de cores
+http://www.flatuicolorpicker.com/
+
+
+
+fontes
+https://fonts.google.com/
+
+
+
+icones
+https://www.iconfinder.com/
+
+
+
+-----------------aula20/09------------
+
+
+CDN --> link direto pro arquivo java script que queremos importar
+
+importar CDN na head da pagina
+arquivos internos apos o body

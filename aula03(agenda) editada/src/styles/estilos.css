@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "decorativa";
+  src: url(../fonts/SigmarOne-Regular.ttf);
+}
+@font-face {
+  font-family: "padrao";
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+body {
+  margin: 0px;
+}
+
+#header {
+  background-color: #59abe3;
+  margin-bottom: 15px;
+}
+#header * {
+  display: inline;
+  vertical-align: middle;
+  padding: 10px 20px;
+}
+#header img {
+  margin-right: 20px;
+}
+#header h1 {
+  font-family: "decorativa";
+}
+
+#formularioContato {
+  padding: 10px;
+  border: 1px solid #59abe3;
+  width: 20%;
+  margin: auto;
+}
+#formularioContato label, #formularioContato input {
+  display: block;
+  font-family: "padrao";
+}
+#formularioContato input {
+  margin-bottom: 10px;
+  height: 25px;
+  font-size: 100%;
+  border-radius: 5px;
+  border: 1px solid #aaaaaa;
+  padding-left: 5px;
+}
+#formularioContato input[type=text], #formularioContato input[type=email] {
+  width: 80%;
+}
+#formularioContato input[type=tel], #formularioContato input[type=date] {
+  width: 150px;
+}
+#formularioContato input[type=submit] {
+  padding: 10px 20px;
+  height: 0%;
+  margin: auto;
+  background-color: #4183d7;
+  color: white;
+  border: none;
+}
+
+/*# sourceMappingURL=estilos.css.map */

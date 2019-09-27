@@ -1,0 +1,34 @@
+.leituraDados {
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+        * { //asteristo significa que a regra vale para todos os 'filhos'
+            display: block;
+            margin-bottom: 5px;
+          }
+    
+            input {
+                font-size: 110%;
+                height: 15px;
+                border-radius: 5px;
+                border: 1px solid #bbbbbb;
+                padding: 3px;
+            }
+            button{
+                font-size: 100%;
+                background-color: blue;
+                color: white;
+                border-radius: 5px;
+                padding: 5px;
+            }
+    
+    
+    }
+    #mensagem{
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 2px;
+        font-weight: bold;
+        padding: 5px;
+        margin-top: 20px;
+        width: 30%;
+    }
